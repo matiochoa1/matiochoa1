@@ -5,6 +5,7 @@
 - 🎖 I have knowledge working with databases and API calls.
 -   🎗 Worked with MySQL, Vertica and Presto.
 - 🎖 Languages learned:
+-   🎗 JAVA.
 -   🎗 HTML and CSS.
 -   🎗 Javascript.
 -   🎗 PHP.
