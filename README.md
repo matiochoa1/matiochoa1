@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matiochoa1
 - 👀 I’m interested in ... become a Full Stack Developer.
-- 👨🏻‍💻 Currenly working as Senior Analyst at Xandr.
+- 👨🏻‍💻 Currently working as Senior Analyst at Xandr.
 - 🌱 I’m currently learning ... Front End languages and libraries.
 - 🎖 I have knowledge working with databases and API calls.
 -   🎗 Worked with MySQL, Vertica and Presto.
